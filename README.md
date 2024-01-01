@@ -19,7 +19,7 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 
-### OUTPUT:
+## OUTPUT:
 
 
 
